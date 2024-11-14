@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sam.EfCoreLogger.Demo", "Sam.EfCoreLogger.Demo\Sam.EfCoreLogger.Demo.csproj", "{8D87BAB3-213E-4FA0-BDD2-69CF70417FD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D87BAB3-213E-4FA0-BDD2-69CF70417FD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D87BAB3-213E-4FA0-BDD2-69CF70417FD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D87BAB3-213E-4FA0-BDD2-69CF70417FD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D87BAB3-213E-4FA0-BDD2-69CF70417FD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FF6C476-1192-49EA-8230-0096D681A390}
+	EndGlobalSection
+EndGlobal
